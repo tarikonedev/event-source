@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Api\\EventSource.Ordering.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Api\\EventSource.Ordering.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Api\\EventSource.Ordering.Api.csproj",
+        "projectName": "EventSource.Ordering.Api",
+        "projectPath": "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Api\\EventSource.Ordering.Api.csproj",
+        "packagesPath": "D:\\Users\\tpokushevskyy\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\tpokushevskyy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://symphonyvsts.pkgs.visualstudio.com/_packaging/omnia-nuget-beta/nuget/v3/index.json": {},
+          "https://symphonyvsts.pkgs.visualstudio.com/_packaging/omnia-nuget-prod/nuget/v3/index.json": {},
+          "https://symphonyvsts.pkgs.visualstudio.com/_packaging/omnia-nuget-rc/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Application\\EventSource.Ordering.Application.csproj": {
+                "projectPath": "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Application\\EventSource.Ordering.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Application\\EventSource.Ordering.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Application\\EventSource.Ordering.Application.csproj",
+        "projectName": "EventSource.Ordering.Application",
+        "projectPath": "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Application\\EventSource.Ordering.Application.csproj",
+        "packagesPath": "D:\\Users\\tpokushevskyy\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\tpokushevskyy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://symphonyvsts.pkgs.visualstudio.com/_packaging/omnia-nuget-beta/nuget/v3/index.json": {},
+          "https://symphonyvsts.pkgs.visualstudio.com/_packaging/omnia-nuget-prod/nuget/v3/index.json": {},
+          "https://symphonyvsts.pkgs.visualstudio.com/_packaging/omnia-nuget-rc/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Domain\\EventSource.Ordering.Domain.csproj": {
+                "projectPath": "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Domain\\EventSource.Ordering.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Domain\\EventSource.Ordering.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Domain\\EventSource.Ordering.Domain.csproj",
+        "projectName": "EventSource.Ordering.Domain",
+        "projectPath": "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Domain\\EventSource.Ordering.Domain.csproj",
+        "packagesPath": "D:\\Users\\tpokushevskyy\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\event-source\\EventSource\\EventSource.Ordering.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Users\\tpokushevskyy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://symphonyvsts.pkgs.visualstudio.com/_packaging/omnia-nuget-beta/nuget/v3/index.json": {},
+          "https://symphonyvsts.pkgs.visualstudio.com/_packaging/omnia-nuget-prod/nuget/v3/index.json": {},
+          "https://symphonyvsts.pkgs.visualstudio.com/_packaging/omnia-nuget-rc/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

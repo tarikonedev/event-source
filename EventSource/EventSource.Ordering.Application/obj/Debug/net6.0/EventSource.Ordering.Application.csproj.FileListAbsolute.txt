@@ -1,0 +1,15 @@
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\obj\Debug\net6.0\EventSource.Ordering.Application.csproj.AssemblyReference.cache
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\obj\Debug\net6.0\EventSource.Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\obj\Debug\net6.0\EventSource.Ordering.Application.AssemblyInfoInputs.cache
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\obj\Debug\net6.0\EventSource.Ordering.Application.AssemblyInfo.cs
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\obj\Debug\net6.0\EventSource.Ordering.Application.csproj.CoreCompileInputs.cache
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\bin\Debug\net6.0\EventSource.Ordering.Application.deps.json
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\bin\Debug\net6.0\EventSource.Ordering.Application.dll
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\bin\Debug\net6.0\EventSource.Ordering.Application.pdb
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\bin\Debug\net6.0\EventSource.Ordering.Domain.dll
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\bin\Debug\net6.0\EventSource.Ordering.Domain.pdb
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\obj\Debug\net6.0\EventSource.Ordering.Application.csproj.CopyComplete
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\obj\Debug\net6.0\EventSource.Ordering.Application.dll
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\obj\Debug\net6.0\refint\EventSource.Ordering.Application.dll
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\obj\Debug\net6.0\EventSource.Ordering.Application.pdb
+D:\GitHub\event-source\EventSource\EventSource.Ordering.Application\obj\Debug\net6.0\ref\EventSource.Ordering.Application.dll

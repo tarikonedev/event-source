@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jqHvLzSwEgrAUP9H0nKx+wVtMo56f5+K4gGAuF2XVLc=",
+  "Source": "EventSource.Ordering.Api",
+  "BasePath": "_content/EventSource.Ordering.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

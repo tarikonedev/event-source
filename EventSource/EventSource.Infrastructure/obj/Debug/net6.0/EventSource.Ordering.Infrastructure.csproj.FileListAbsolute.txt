@@ -1,0 +1,12 @@
+D:\GitHub\event-source\EventSource\EventSource.Infrastructure\bin\Debug\net6.0\EventSource.Ordering.Infrastructure.deps.json
+D:\GitHub\event-source\EventSource\EventSource.Infrastructure\bin\Debug\net6.0\EventSource.Ordering.Infrastructure.dll
+D:\GitHub\event-source\EventSource\EventSource.Infrastructure\bin\Debug\net6.0\EventSource.Ordering.Infrastructure.pdb
+D:\GitHub\event-source\EventSource\EventSource.Infrastructure\obj\Debug\net6.0\EventSource.Ordering.Infrastructure.csproj.AssemblyReference.cache
+D:\GitHub\event-source\EventSource\EventSource.Infrastructure\obj\Debug\net6.0\EventSource.Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\event-source\EventSource\EventSource.Infrastructure\obj\Debug\net6.0\EventSource.Ordering.Infrastructure.AssemblyInfoInputs.cache
+D:\GitHub\event-source\EventSource\EventSource.Infrastructure\obj\Debug\net6.0\EventSource.Ordering.Infrastructure.AssemblyInfo.cs
+D:\GitHub\event-source\EventSource\EventSource.Infrastructure\obj\Debug\net6.0\EventSource.Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GitHub\event-source\EventSource\EventSource.Infrastructure\obj\Debug\net6.0\EventSource.Ordering.Infrastructure.dll
+D:\GitHub\event-source\EventSource\EventSource.Infrastructure\obj\Debug\net6.0\refint\EventSource.Ordering.Infrastructure.dll
+D:\GitHub\event-source\EventSource\EventSource.Infrastructure\obj\Debug\net6.0\EventSource.Ordering.Infrastructure.pdb
+D:\GitHub\event-source\EventSource\EventSource.Infrastructure\obj\Debug\net6.0\ref\EventSource.Ordering.Infrastructure.dll
